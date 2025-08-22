@@ -32,3 +32,13 @@
 
 // console.log("After Swap: a = " + a + ", b = " + b);
 
+
+
+// 4. Check Even / Odd (with remainder only)
+
+// let num = 9;
+
+// let remainder = num % 2;
+
+// console.log("Remainder = " + remainder); 
+// // 0 → Even, 1 → Odd
